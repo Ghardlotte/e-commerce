@@ -46,6 +46,7 @@ To run tests, run the command:
 ```
 npm test
 ```
+link for video demo https://drive.google.com/file/d/19FV7JsB1L4wGYn0vTsF_TwCAm6UIkPSw/view
 
 ## Qestions
 
